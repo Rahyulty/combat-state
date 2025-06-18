@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-The `PlayerState` module provides a robust, flexible framework for managing player states in Roblox combat and action systems. It abstracts state management using a `Folder` of `BoolValue` instances and offers a clear API for querying, modifying, and monitoring player state.
+The `PlayerState` module provides a robust, flexible framework for managing player states in Roblox combat and action systems. It abstracts state management using a `Folder` of `BoolValue` instances and offers a clear API for querying, modifying, and monitoring player state. THIS IS SPECIFICALLY MADE FOR MY UPCOMING GAME WHICH IS WHY SOME FUNCTIONS ARE SPECIFIC 
 
 This module enables:
 
